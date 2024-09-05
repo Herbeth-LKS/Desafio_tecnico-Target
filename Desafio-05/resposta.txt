@@ -1,0 +1,9 @@
+Primeiro, liguei o primeiro interruptor e o deixei ligado por 5 minutos. Esse tempo é suficiente para que a lâmpada correspondente aqueça. Após os 5 minutos, desliguei o primeiro interruptor e imediatamente liguei o segundo interruptor. Em seguida, fui até a sala das lâmpadas para verificar o estado delas.
+
+Ao chegar na sala, observei a lâmpadas e analisei o seguinte:
+
+    A lâmpada que estava acesa era controlada pelo segundo interruptor, que ainda estava ligado.
+    A lâmpada que estava apagada, mas quente ao toque, era controlada pelo primeiro interruptor, pois ela havia estado ligada por um tempo e, portanto, aquecida.
+    A lâmpada que estava apagada e fria era controlada pelo terceiro interruptor, já que esse interruptor não havia sido acionado em nenhum momento.
+
+Dessa forma, consegui identificar corretamente qual interruptor controla cada lâmpada com apenas uma visita à sala das lâmpadas.
